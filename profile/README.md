@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://www.trippler.com">
-    <img src="https://i.imgur.com/cMYlvOc.png" alt="Logo" width="128" height="128">
+    <img src="https://i.imgur.com/0P06Io8.png" alt="Logo" width="128" height="128">
   </a>
 
   <h3 align="center">Trippler</h3>
