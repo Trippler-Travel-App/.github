@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://www.trippler.com">
+  <a href="http://trippler.vercel.app">
     <img src="https://i.imgur.com/0P06Io8.png" alt="Logo" width="128" height="128">
   </a>
 
@@ -12,7 +12,7 @@
   <p align="center">
     Slogan
     <br />
-    <a href="https://www.trippler.com"><strong>Visit our website »</strong></a>
+    <a href="http://trippler.vercel.app"><strong>Visit our website »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Trippler-Travel-App/.github/issues">View Demo</a>
@@ -47,7 +47,7 @@ Presentation
 <!-- CONTACT -->
 ## Contact
 
-Trippler - [www.trippler.com](https://www.trippler.com) - contact@trippler.com
+Trippler - [http://trippler.vercel.app](http://trippler.vercel.app) - contact@trippler.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![XING][xing-shield]][xing-url]
