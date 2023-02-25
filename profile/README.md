@@ -10,16 +10,22 @@
   <h3 align="center">Tripplyn</h3>
 
   <p align="center">
-    Slogan
+    An awesome open-source app project to save and share your travel memories!
     <br />
-    <a href="http://trippler.vercel.app"><strong>Visit our website »</strong></a>
+    <a href="https://trippler.vercel.app"><strong>Visit the website »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Tripplyn/.github/issues">View Demo</a>
+    <a href="https://github.com/Tripplyn">GitHub</a>
     ·
-    <a href="https://github.com/Tripplyn/.github/issues">Report Bug</a>
+    <a href="https://tripplyn.notion.site">Notion</a>
     ·
-    <a href="https://github.com/Tripplyn/.github/issues">Request Feature</a>
+    <a href="https://www.figma.com/team_invite/redeem/no0ibz5plNl0KBjH888dHO">Figma</a>
+    ·
+    <a href="https://discord.gg/tvPPxkCK">Discord</a>
+    ·
+    <a href="https://github.com/Tripplyn/WebApp/issues">Request Feature</a>
+    ·
+    <a href="https://github.com/Tripplyn/WebApp/issues">Report Bug</a>
   </p>
 </div>
 
