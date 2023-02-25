@@ -7,7 +7,7 @@
     <img src="https://i.imgur.com/0P06Io8.png" alt="Logo" width="128" height="128">
   </a>
 
-  <h3 align="center">Trippler</h3>
+  <h3 align="center">Tripplyn</h3>
 
   <p align="center">
     Slogan
@@ -15,11 +15,11 @@
     <a href="http://trippler.vercel.app"><strong>Visit our website »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Trippler-Travel-App/.github/issues">View Demo</a>
+    <a href="https://github.com/Tripplyn/.github/issues">View Demo</a>
     ·
-    <a href="https://github.com/Trippler-Travel-App/.github/issues">Report Bug</a>
+    <a href="https://github.com/Tripplyn/.github/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Trippler-Travel-App/.github/issues">Request Feature</a>
+    <a href="https://github.com/Tripplyn/.github/issues">Request Feature</a>
   </p>
 </div>
 
@@ -47,7 +47,7 @@ Presentation
 <!-- CONTACT -->
 ## Contact
 
-Trippler - [http://trippler.vercel.app](http://trippler.vercel.app) - contact@trippler.com
+Tripplyn - [http://trippler.vercel.app](http://trippler.vercel.app) - contact@tripplyn.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![XING][xing-shield]][xing-url]
@@ -60,7 +60,7 @@ Trippler - [http://trippler.vercel.app](http://trippler.vercel.app) - contact@tr
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&colorB=555
-[linkedin-url]: https://www.linkedin.com/company/trippler/
+[linkedin-url]: https://www.linkedin.com/company/tripplyn/
 [xing-shield]: https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white&colorB=555
 [xing-url]: https://linkedin.com/in/othneildrew
 [twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&colorB=555
